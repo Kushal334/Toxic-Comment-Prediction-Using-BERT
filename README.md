@@ -1,1 +1,2 @@
-# Toxic-Comment-Prediction-Using-BERT
+# Toxic Comment Prediction Using BERT Model
+ 
